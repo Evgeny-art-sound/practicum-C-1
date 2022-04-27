@@ -9,5 +9,5 @@ if (a % b == 0)
 }
 else
 {
-    Console.WriteLine("Числа не кратны ");
+    Console.WriteLine($"Числа не кратны,остаток: {a % b}");
 }
