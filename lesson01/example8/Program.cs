@@ -5,8 +5,9 @@ Console.Write("Введите делитель: ");
 int b = int.Parse(Console.ReadLine());
 if (a % b == 0)
 {
-Console.WriteLine("Числа кратны ");
+    Console.WriteLine("Числа кратны ");
 }
-else{
-    Console.WriteLine ("Числа не кратны ");
+else
+{
+    Console.WriteLine("Числа не кратны ");
 }
