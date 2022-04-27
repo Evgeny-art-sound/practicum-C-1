@@ -1,4 +1,5 @@
-﻿Console.Write("Введите число - ");
+﻿// Показать четные числа от 1 до введенного числа
+Console.Write("Введите число - ");
 int a = int.Parse(Console.ReadLine());
 int b = 1;
 Console.WriteLine("Список всех четных чисел от 1 до введенного числа: ");
