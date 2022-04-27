@@ -5,31 +5,31 @@ if (a <= 7 && a > 0)
 {
     if (a == 1)
     {
-        Console.Write("Сегодня понедельник ");
+        Console.WriteLine("Сегодня понедельник ");
     }
     if (a == 2)
     {
-        Console.Write("Сегодня вторник");
+        Console.WriteLine("Сегодня вторник");
     }
     if (a == 3)
     {
-        Console.Write("Сегодня среда");
+        Console.WriteLine("Сегодня среда");
     }
     if (a==4)
     {
-        Console.Write("Сегодня четверг");
+        Console.WriteLine("Сегодня четверг");
     }
     if (a==5)
     {
-        Console.Write("Сегодня пятница");
+        Console.WriteLine("Сегодня пятница");
     }
     if (a==6)
     {
-        Console.Write("Сегодня суббота");
+        Console.WriteLine("Сегодня суббота");
     }
     if (a==7)
     {
-        Console.Write("Сегодня воскресенье");
+        Console.WriteLine("Сегодня воскресенье");
     }
 }
 else
